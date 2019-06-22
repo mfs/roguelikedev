@@ -1,0 +1,9 @@
+[package]
+name = "roguelike"
+version = "0.1.0"
+authors = ["Mike Sampson <mike@sambodata.com>"]
+edition = "2018"
+
+[dependencies]
+failure = "*"
+termion = "*"
