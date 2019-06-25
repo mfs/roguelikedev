@@ -10,6 +10,7 @@ yet. Can display an @ and move it around the screen.
 ## Reddit Threads
 - [Main](https://www.reddit.com/r/roguelikedev/comments/bz6s0j/roguelikedev_does_the_complete_roguelike_tutorial/)
 - [Week 1](https://www.reddit.com/r/roguelikedev/comments/c1xj5b/roguelikedev_does_the_complete_roguelike_tutorial/)
+- [Week 2](https://www.reddit.com/r/roguelikedev/comments/c52ik4/roguelikedev_does_the_complete_roguelike_tutorial/)
 
 ## References
 - https://ticki.github.io/blog/making-terminal-applications-in-rust-with-termion/
